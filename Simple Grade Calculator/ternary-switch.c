@@ -32,7 +32,7 @@ main(){
         break;
     
     case 'B' :
-        printf("\n Well done’.");
+        printf("\n Well doneï¿½.");
         break;
     
     case 'C' :
