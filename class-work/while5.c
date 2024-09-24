@@ -1,12 +1,8 @@
 #include<stdio.h>
- main(){
-    int i=1 , n;
-    printf("Enter Any Number:");
-    scanf("%d",&n);
-
-    while (i<=n)
-    {
-        printf(" %d",i);
-        i++;
-    }
- }
+main(){
+    int year1 , year2 ;
+    printf("Enter First Year:");
+    scanf("%d",&year1);
+    printf("Enter Second Year :");
+    scanf("%d",&year2);
+}
